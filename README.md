@@ -1,4 +1,4 @@
-## :computer: Nubank Clone
+## :iphone: Nubank Clone
 
 Nubank Clone with React-native.
 
@@ -14,7 +14,7 @@ This project was developed with the following technologies:
 -  [VS Code](https://code.visualstudio.com/) with ESLint.
 
 
-## :iphone: How to use
+## :ballot_box_with_check: How to use
 
 
 ```bash
